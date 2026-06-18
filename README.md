@@ -1,6 +1,6 @@
 # ClearBank - Análise Financeira com Python
 
-Este projeto é o desafio final do módulo de Python para Análise de Dados da Rocketseat.
+Este projeto é o desafio final do módulo de Análise de Dados e Inteligencia de Negócios da Rocketseat.
 
 ## Descrição
 
